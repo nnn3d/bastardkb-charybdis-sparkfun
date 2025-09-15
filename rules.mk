@@ -1,7 +1,8 @@
 # Build Options
 #   change yes to no to disable
 #
-CONVERT_TO=promicro_rp2040
+CONVERT_TO = sparkfun_pm2040
+PIN_COMPATIBLE = promicro
 
 # Bootloader selection
 BOOTLOADER = rp2040
